@@ -1,0 +1,26 @@
+.mini{
+    display: flex;
+    justify-content: space-around;
+}
+li{
+    list-style-type: none;
+}
+.pic{
+    height:400px ;
+    width: 600px;
+  
+}
+.hig{
+    display: flex;
+    justify-content: space-around;
+}
+.meet{
+    display: flex;
+    justify-content:space-around ;
+}
+.box-shadow{
+    border-radius: 10px;
+    background: #FFF;
+    box-shadow: 0 4px 15px #8f8f8f26;
+    padding: 2rem;
+}
